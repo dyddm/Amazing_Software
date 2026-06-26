@@ -90,6 +90,8 @@ A modern terminal and agentic development environment with command blocks, AI wo
 
 # GitStock
 
+[![torvalds/linux GitStock K-Line Chart](https://blog-image.xemails.top/2026/9b5c67b4fd7cf02f4331d7048380576d.svg)](https://gitstock.org/torvalds/linux)
+
 Enter a public repository. GitStock turns recent commits and code changes into a shareable SVG candlestick chart, helping you evaluate repository activity and health trends at a glance.
 
 [GitStock](https://gitstock.org/)
