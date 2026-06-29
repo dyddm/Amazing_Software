@@ -74,6 +74,18 @@ A fast, lightweight Docker Desktop alternative for Mac that runs containers, Kub
 
 [OrbStack](https://orbstack.dev/)
 
+# IOS
+
+## Photo/Screenshot to Calendar
+Turn a photo or screenshot into an editable iPhone calendar event with AI. CalendarAssistant extracts dates, times, titles, and notes from event images.
+
+[Photo to Calendar](https://hx-std.com/app/calendarassistant/)
+
+## pop out photo effect
+Create pop out and parallax-style 3D photo effects from ordinary pictures on iPhone.
+
+[pop out photo effect](https://hx-std.com/app/ioutbox/)
+
 # Developer Tools
 
 ## Zed
